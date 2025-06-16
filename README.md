@@ -1,4 +1,4 @@
-# Remote access trojans Collectio
+# Remote access trojans collection
 
 I disclaim all liability for any issues arising from the use of these constructor/builder samples.
 Always run any constructor or builder in a controlled testing environment, such as a virtual machine.
